@@ -1,0 +1,17 @@
+/mark.php
+/set_exam.php
+/staff
+/staff_delete.php
+/staff_view.php
+/student
+/student.php
+/stud_delete.php
+/sub_delete.php
+/teacher_change_pass.php
+/teacher_home.php
+/teacher_login.php
+/tech_view_exam.php
+/view_exam.php
+/view_mark.php
+/view_staff.php
+/view_stud_teach.php
